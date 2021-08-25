@@ -12,6 +12,7 @@ test();      // window
 new test();  // test
 ```
 
+
 Подробнее:
 https://www.youtube.com/watch?v=kb0Af7dzCTs
 https://proweb63.ru/help/js/kontekst-vyipolneniya-funkczii-v-javascript
