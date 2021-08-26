@@ -33,10 +33,10 @@ SOAP-сообщение состоит из:
 
 ![GraphQL](https://avatars.mds.yandex.net/get-zen_doc/3489860/pub_60197fcbb19d82187ee3d704_60197fe5b19d82187ee40b77/scale_1200)
 
-__Настоятельно рекомендую изучить более подробное описание по ссылке ниже:__
+__Настоятельно рекомендую изучить более подробное описание по ссылке ниже:__  
 https://zen.yandex.ru/media/nuancesprog/sravnenie-arhitekturnyh-stilei-api-soap-vs-rest-vs-graphql-vs-rpc-60197fcbb19d82187ee3d704
 
 Подробнее:
-https://habr.com/ru/post/335158/
-https://proglib.io/p/hvatit-ispolzovat-rest-dlya-api-2020-12-12
-https://habr.com/ru/post/493676/
+https://habr.com/ru/post/335158/  
+https://proglib.io/p/hvatit-ispolzovat-rest-dlya-api-2020-12-12  
+https://habr.com/ru/post/493676/  
