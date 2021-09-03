@@ -28,4 +28,5 @@
 ## 4. C# и .NET
 * [В чем отличие ArrayList от LinkedList](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/%232%20%D0%92%20%D1%87%D0%B5%D0%BC%20%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5%20ArrayList%20%D0%BE%D1%82%20LinkedList.md)
 * [Code-First, Model-First и Database-First. Суть?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/%239.md)
+* [lazy load, eager load - разница?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/12.md)
 * []()
