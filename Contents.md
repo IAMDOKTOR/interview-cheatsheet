@@ -9,6 +9,7 @@
 * [Что последнее из мира IT вас заинтересовало?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/%2310.md)
 * [Что такое "тернарный оператор"?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/13.md)
 * [В чём отличия Scrum, Agile и Kanban?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/14.md)
+* [Зачем нужен Git?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/15.md)
 * []()
 
 
