@@ -37,4 +37,5 @@
 * [В чем отличие ArrayList от LinkedList](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/02.md)
 * [Code-First, Model-First и Database-First. Суть?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/09.md)
 * [lazy load, eager load - разница?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/12.md)
+* [Как добавить сценарии в .NET?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/21.md)
 * []()
