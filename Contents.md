@@ -15,6 +15,7 @@
 * [Битовые операции - это?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/18.md)
 * [Постройте, пожалуйста, ER-модель?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/19.md)
 * [Вы создаете стартап. Как нарисуете фронт?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/20.md)
+* [Монолит или микросервисы? Почему?](https://github.com/alex-andrero/interview-cheatsheet/blob/master/%D0%9E%D1%82%D0%B2%D0%B5%D1%82%D1%8B/22.md)
 * []()
 
 
